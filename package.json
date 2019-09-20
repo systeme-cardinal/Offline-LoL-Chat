@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^5.0.1",
-    "electron-builder": "^20.40.2",
-    "fs-extra": "^8.0.1",
-    "got": "^9.6.0",
-    "lcu-connector": "^2.1.2",
-    "yaml": "^1.5.1"
+    "electron": "latest",
+    "electron-builder": "latest",
+    "fs-extra": "latest",
+    "got": "latest",
+    "lcu-connector": "^latest",
+    "yaml": "latest"
   }
 }
